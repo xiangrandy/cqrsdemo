@@ -3,8 +3,7 @@ package org.randy.domain.core.command;
 import java.util.Date;
 
 /**
- * The abstract class of domain command.All domain commands must have its own
- * command name.
+ * The abstract class of domain command.
  * 
  * @author x00418543
  *
