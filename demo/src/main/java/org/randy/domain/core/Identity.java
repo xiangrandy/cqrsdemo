@@ -3,7 +3,7 @@ package org.randy.domain.core;
 import java.io.Serializable;
 
 /**
- * 唯一标识
+ * Identity
  * 
  * @author x00418543
  * @since 2019年12月19日

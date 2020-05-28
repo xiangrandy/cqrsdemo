@@ -5,7 +5,7 @@ package org.randy.domain.core.command;
  * handlers need to be subscribed to a {@link DomainCommandBus} in order to
  * receive {@link DomainCommand}.
  * 
- * @author x00418543
+ * @author xiangyang
  *
  */
 public interface DomainCommandHandler {

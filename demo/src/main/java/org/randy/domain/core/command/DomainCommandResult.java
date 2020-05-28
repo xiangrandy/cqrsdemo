@@ -3,7 +3,7 @@ package org.randy.domain.core.command;
 /**
  * Domain command result.
  * 
- * @author x00418543
+ * @author xiangyang
  *
  */
 public interface DomainCommandResult {

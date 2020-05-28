@@ -15,19 +15,16 @@ public class DistributedDomainCommandBus extends DomainCommandBus {
 
 	@Override
 	public void dispatch(DomainCommand command) {
-		// TODO Auto-generated method stub
 
 	}
 
 	@Override
 	public void dispatch(DomainCommand command, DomainCommandCallback callback) {
-		// TODO Auto-generated method stub
 
 	}
 
 	@Override
 	public void subscribe(String commandName, DomainCommandHandler handler) {
-		// TODO Auto-generated method stub
 
 	}
 

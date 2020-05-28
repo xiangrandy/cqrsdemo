@@ -1,6 +1,3 @@
-/*
- * Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved.
- */
 package org.randy.application.core;
 
 /**
@@ -11,7 +8,7 @@ package org.randy.application.core;
  */
 public interface Cache<T> {
 
-    T get(String cacheName, String key);
+	T get(String cacheName, String key);
 
-    void put(String cacheName, String key, T value, long expired);
+	void put(String cacheName, String key, T value, long expired);
 }

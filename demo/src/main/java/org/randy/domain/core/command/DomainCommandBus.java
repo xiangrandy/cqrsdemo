@@ -3,7 +3,7 @@ package org.randy.domain.core.command;
 /**
  * abstract DomainCommandBus,dispatches DomainCommand to DomainCommandHandler.
  * 
- * @author x00418543
+ * @author xiangyang
  */
 public abstract class DomainCommandBus {
 

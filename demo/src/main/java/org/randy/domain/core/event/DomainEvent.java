@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * 
- * @author x00418543
+ * @author xiangyang
  *
  */
 public abstract class DomainEvent {

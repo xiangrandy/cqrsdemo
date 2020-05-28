@@ -1,5 +1,11 @@
 package org.randy.domain.core.models;
 
+/**
+ * entity
+ * 
+ * @author xiangyang
+ *
+ */
 public abstract class Entity {
 
 	protected long id;

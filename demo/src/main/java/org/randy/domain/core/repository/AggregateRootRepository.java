@@ -3,10 +3,9 @@ package org.randy.domain.core.repository;
 import org.randy.domain.core.models.AggregateRoot;
 
 /**
- * 资源库抽象类
+ * repository
  * 
- * @author x00418543
- * @since 2019年12月12日
+ * @author xiangyang
  */
 public interface AggregateRootRepository<R extends AggregateRoot> {
 

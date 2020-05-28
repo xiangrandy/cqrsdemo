@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * The abstract class of domain command.
  * 
- * @author x00418543
+ * @author xiangyang
  *
  */
 public abstract class DomainCommand {

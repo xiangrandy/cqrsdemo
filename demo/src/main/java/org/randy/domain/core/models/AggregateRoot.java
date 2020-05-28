@@ -6,9 +6,9 @@ import java.util.List;
 import org.randy.domain.core.event.DomainEvent;
 
 /**
- * 聚合根基类
+ * aggregate root
  * 
- * @author x00418543
+ * @author xiangyang
  * @since 2019年12月13日
  */
 public abstract class AggregateRoot {
